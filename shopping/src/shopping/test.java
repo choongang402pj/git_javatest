@@ -10,5 +10,6 @@ public class test {
 		System.out.println("코드 변경");
 		
 		String user = "hong";
+		System.out.println("chchchchchange");
 	}
 }
