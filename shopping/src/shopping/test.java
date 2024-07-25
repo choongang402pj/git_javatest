@@ -13,5 +13,6 @@ public class test {
 		System.out.println(b);
 		System.out.println(c);
 		System.out.println(user);
+		System.out.println(b+c);
 	}
 }
